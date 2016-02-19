@@ -1,3 +1,5 @@
+Avoiding merge conflicts up here!
+
 That shore is a nice file.
 
 Changes changes changes!!!
