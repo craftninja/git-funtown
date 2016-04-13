@@ -13,9 +13,10 @@
   * more deets
     * more
     * this is how you do it
+ 
       ```javascript
       function awesometown (something) {
-        cool things
+        return coolThings
       };
       ```
 
