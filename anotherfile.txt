@@ -3,3 +3,5 @@ Here is another file.
 No merge conflict here...
 
 Making changes.
+
+moar changes
